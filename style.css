@@ -374,12 +374,14 @@
     padding: 108px 0 74px 0;
 }
 .woman__header {
+    margin-left: 268px;
     font-weight: 900;
     font-size: 30px;
     text-transform: uppercase;
     color: #299cbd;
 }
 .woman__text {
+    margin-left: 268px;
     font-weight: 300;
     font-size: 17px;
     color: #4a4a4a;
